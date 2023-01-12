@@ -1,0 +1,21 @@
+.person-wrap {
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-start;
+}
+
+.person-wrap img {
+    max-width: 100%;
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    object-position: center;
+    border-radius: 50%;
+    display: block;
+    margin-right: 15px;
+}
+
+.info {
+    text-align: left;
+}

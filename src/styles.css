@@ -1,0 +1,30 @@
+@import url("https://fonts.googleapis.com/css2?family=Mulish:wght@200&family=Poppins:wght@200;300&display=swap");
+
+.App {
+    font-family: sans-serif;
+    text-align: center;
+    background-color: dodgerblue;
+    height: 100vh;
+    display: grid;
+    place-items: center;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+}
+
+.wrapper {
+    width: 350px;
+    height: auto;
+    background: #fff;
+    border-radius: 8px;
+    padding: 20px 8px;
+}
+
+.wrapper h3 {
+    text-align: left;
+    margin-left: 10px;
+}
